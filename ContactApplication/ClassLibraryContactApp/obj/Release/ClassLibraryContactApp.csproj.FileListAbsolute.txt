@@ -1,0 +1,5 @@
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\bin\Release\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\bin\Release\ClassLibraryContactApp.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\obj\Release\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\obj\Release\ClassLibraryContactApp.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\obj\Release\ClassLibraryContactApp.csprojResolveAssemblyReference.cache

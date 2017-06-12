@@ -3,3 +3,11 @@ C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\b
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\bin\Debug\ContactApplication.pdb
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\obj\Debug\ContactApplication.exe
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\obj\Debug\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Debug\ContactApplication.exe.config
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Debug\ContactApplication.exe
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Debug\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Debug\ContactApplication.csprojResolveAssemblyReference.cache
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Debug\ContactApplication.exe
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Debug\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Debug\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Debug\ClassLibraryContactApp.pdb

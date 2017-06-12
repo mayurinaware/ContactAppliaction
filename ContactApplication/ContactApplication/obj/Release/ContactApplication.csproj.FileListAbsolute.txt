@@ -3,3 +3,13 @@ C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\b
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\bin\Release\ContactApplication.pdb
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\obj\Release\ContactApplication.exe
 C:\Users\maynawa\Documents\ContactSearch\ContactApplication\ContactApplication\obj\Release\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\ContactApplication.exe.config
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Release\ContactApplication.exe
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Release\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\ContactApplication.exe
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\ContactApplication.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\bin\Release\ClassLibraryContactApp.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ContactApplication\obj\Release\ContactApplication.csprojResolveAssemblyReference.cache

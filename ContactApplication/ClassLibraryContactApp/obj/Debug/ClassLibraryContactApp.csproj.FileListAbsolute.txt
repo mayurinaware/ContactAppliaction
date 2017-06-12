@@ -1,0 +1,4 @@
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\bin\Debug\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\bin\Debug\ClassLibraryContactApp.pdb
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\obj\Debug\ClassLibraryContactApp.dll
+C:\Users\maynawa\Documents\ContactSearch\ContactAppliaction\ContactApplication\ClassLibraryContactApp\obj\Debug\ClassLibraryContactApp.pdb
